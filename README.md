@@ -1,2 +1,2 @@
 # stock-streamlit
-Stock Analyser using Streamlit
+Stock Analyzer using Streamlit
